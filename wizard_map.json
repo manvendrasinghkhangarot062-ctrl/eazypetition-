@@ -1,0 +1,1157 @@
+{
+    "Step_1": [
+        {
+            "id": "uscis-case-search-0",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-1",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-2",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-3",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-4",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-5",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-6",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-7",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-8",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-9",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-10",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-11",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-12",
+            "type": "text",
+            "text": ""
+        }
+    ],
+    "Step_2": [
+        {
+            "id": "uscis-case-search-0",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-1",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-2",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-3",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-4",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-5",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-6",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-7",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-8",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-9",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-10",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-11",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-12",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "Line1a_FamilyName[0]",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "Line1b_GivenName[0]",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "Line1c_MiddleName[0]",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "Line18a_CityTownOfBirth[0]",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "Line18b_CityTownOfBirth[0]",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "tel",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "tel",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "tel",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "tel",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "tel",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "tel",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "tel",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "tel",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "tel",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "tel",
+            "text": ""
+        },
+        {
+            "id": "Line20b_Passport[0]",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "Line20c_TravelDoc[0]",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "place_entry[0]",
+            "type": "text",
+            "text": ""
+        }
+    ],
+    "Step_3": [
+        {
+            "id": "uscis-case-search-0",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-1",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-2",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-3",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-4",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-5",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-6",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-7",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-8",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-9",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-10",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-11",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-12",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "Pt3Line3_DaytimePhoneNumber1[0]",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "Pt3Line4_MobileNumber1[0]",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "email",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        },
+        {
+            "id": "",
+            "type": "text",
+            "text": ""
+        }
+    ],
+    "Step_4": [
+        {
+            "id": "uscis-case-search-0",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-1",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-2",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-3",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-4",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-5",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-6",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-7",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-8",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-9",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-10",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-11",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-12",
+            "type": "text",
+            "text": ""
+        }
+    ],
+    "Step_5": [
+        {
+            "id": "uscis-case-search-0",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-1",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-2",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-3",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-4",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-5",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-6",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-7",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-8",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-9",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-10",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-11",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-12",
+            "type": "text",
+            "text": ""
+        }
+    ],
+    "Step_6": [
+        {
+            "id": "uscis-case-search-0",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-1",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-2",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-3",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-4",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-5",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-6",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-7",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-8",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-9",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-10",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-11",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-12",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        }
+    ],
+    "Step_7": [
+        {
+            "id": "uscis-case-search-0",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-1",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-2",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-3",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-4",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-5",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-6",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-7",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-8",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-9",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-10",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-11",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-12",
+            "type": "text",
+            "text": ""
+        }
+    ],
+    "Step_8": [
+        {
+            "id": "uscis-case-search-0",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-1",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-2",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-3",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-4",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-5",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-6",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-7",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-8",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-9",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-10",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-11",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-12",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "No"
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": "Yes"
+        }
+    ],
+    "Step_9": [
+        {
+            "id": "uscis-case-search-0",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-1",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-2",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-3",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-4",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-5",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-6",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-7",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-8",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-9",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-10",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-11",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-12",
+            "type": "text",
+            "text": ""
+        }
+    ],
+    "Step_10": [
+        {
+            "id": "uscis-case-search-0",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-1",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-2",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-3",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-4",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-5",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-6",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-7",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-8",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-9",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-10",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-11",
+            "type": "text",
+            "text": ""
+        },
+        {
+            "id": "uscis-case-search-12",
+            "type": "text",
+            "text": ""
+        }
+    ]
+}
